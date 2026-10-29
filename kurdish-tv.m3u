@@ -1,106 +1,106 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/iq.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/eg.xml"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" group-title="کەناڵە کوردییەکان",Al Iraqia Kurdish
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" group-title="Kurdish TV",Al Iraqia Kurdish
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 
-#EXTINF:-1 tvg-id="Channel8.iq@SD" group-title="کەناڵە کوردییەکان",Channel 8 Kurdish
+#EXTINF:-1 tvg-id="Channel8.iq@SD" group-title="Kurdish TV",Channel 8 Kurdish
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" group-title="کەناڵە کوردییەکان",Kurdistan 24
+#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" group-title="Kurdish TV",Kurdistan 24
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" group-title="کەناڵە کوردییەکان",Kurdistan TV
+#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" group-title="Kurdish TV",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Kurdsat.iq@SD" group-title="کەناڵە کوردییەکان",Kurdsat HD
+#EXTINF:-1 tvg-id="Kurdsat.iq@SD" group-title="Kurdish TV",Kurdsat HD
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
-#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" group-title="کەناڵە کوردییەکان",Kurdsat News
+#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" group-title="Kurdish TV",Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 
-#EXTINF:-1 tvg-id="RudawTV.iq@SD" group-title="کەناڵە کوردییەکان",Rudaw TV
+#EXTINF:-1 tvg-id="RudawTV.iq@SD" group-title="Kurdish TV",Rudaw TV
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 
-#EXTINF:-1 tvg-id="NRTTV.iq@SD" group-title="کەناڵە کوردییەکان",NRT TV
+#EXTINF:-1 tvg-id="NRTTV.iq@SD" group-title="Kurdish TV",NRT TV
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PayamTV.iq@SD" group-title="کەناڵە کوردییەکان",Payam TV
+#EXTINF:-1 tvg-id="PayamTV.iq@SD" group-title="Kurdish TV",Payam TV
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
 
-#EXTINF:-1 tvg-id="WaarTV.iq@SD" group-title="کەناڵە کوردییەکان",Waar TV
+#EXTINF:-1 tvg-id="WaarTV.iq@SD" group-title="Kurdish TV",Waar TV
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 
-#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" group-title="کەناڵە کوردییەکان",Zagros TV
+#EXTINF:-1 tvg-id="ZagrosTV.iq@SD" group-title="Kurdish TV",Zagros TV
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
 
-#EXTINF:-1 tvg-id="AVAMedia.iq@HD" group-title="کەناڵە کوردییەکان",AVA Media
+#EXTINF:-1 tvg-id="AVAMedia.iq@HD" group-title="Kurdish TV",AVA Media
 https://ava002.xyz/upload/images/1080.m3u8
 
-#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" group-title="کەناڵە کوردییەکان",Mixkurdy
+#EXTINF:-1 tvg-id="Mixkurdy.iq@HD" group-title="Kurdish TV",Mixkurdy
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AvarTV.iq@HD" group-title="کەناڵە کوردییەکان",Avar TV
+#EXTINF:-1 tvg-id="AvarTV.iq@HD" group-title="Kurdish TV",Avar TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmozhgaryTV.iq@SD" group-title="کەناڵە کوردییەکان",Amozhgary TV
+#EXTINF:-1 tvg-id="AmozhgaryTV.iq@SD" group-title="Kurdish TV",Amozhgary TV
 https://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTKurdi.tr@SD" group-title="کەناڵە کوردییەکان",TRT Kurdî
+#EXTINF:-1 tvg-id="TRTKurdi.tr@SD" group-title="Kurdish TV",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="SterkTV.be@SD" group-title="کەناڵە کوردییەکان",Stêrk TV
+#EXTINF:-1 tvg-id="SterkTV.be@SD" group-title="Kurdish TV",Stêrk TV
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 
-#EXTINF:-1 tvg-id="JinTV.nl@SD" group-title="کەناڵە کوردییەکان",Jin TV
+#EXTINF:-1 tvg-id="JinTV.nl@SD" group-title="Kurdish TV",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 
-#EXTINF:-1 tvg-id="RojavaTV.sy@SD" group-title="کەناڵە کوردییەکان",Rojava TV
+#EXTINF:-1 tvg-id="RojavaTV.sy@SD" group-title="Kurdish TV",Rojava TV
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 
-#EXTINF:-1 tvg-id="RonahiTV.sy@SD" group-title="کەناڵە کوردییەکان",Ronahi TV
+#EXTINF:-1 tvg-id="RonahiTV.sy@SD" group-title="Kurdish TV",Ronahi TV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 
-#EXTINF:-1 tvg-id="AfarinTV.iq@SD" group-title="منداڵان",Afarin TV
+#EXTINF:-1 tvg-id="AfarinTV.iq@SD" group-title="Kids",Afarin TV
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" group-title="منداڵان",Afarin Baxcha
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" group-title="Kids",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="منداڵان",Zarok TV Kurmanji
+#EXTINF:-1 tvg-id="ZarokTV.tr@SD" group-title="Kids",Zarok TV Kurmanji
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="منداڵان",Zarok TV Sorani
+#EXTINF:-1 tvg-id="" group-title="Kids",Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="MBCIraq.iq@SD" group-title="فیلم و دراما",MBC Iraq
+#EXTINF:-1 tvg-id="MBCIraq.iq@SD" group-title="Movies & Drama",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae@SD" group-title="فیلم و دراما",MBC Drama
+#EXTINF:-1 tvg-id="MBCDrama.ae@SD" group-title="Movies & Drama",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" group-title="فیلم و دراما",MBC+ Drama
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" group-title="Movies & Drama",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" group-title="فیلم و دراما",MBC Masr Drama
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" group-title="Movies & Drama",MBC Masr Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
 
-#EXTINF:-1 tvg-id="Aflam.sa@SD" group-title="فیلم و دراما",Aflam
+#EXTINF:-1 tvg-id="Aflam.sa@SD" group-title="Movies & Drama",Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MoviesAction.sa@SD" group-title="فیلم و دراما",Movies Action
+#EXTINF:-1 tvg-id="MoviesAction.sa@SD" group-title="Movies & Drama",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BabAlHara.sa@SD" group-title="فیلم و دراما",Bab Al Hara
+#EXTINF:-1 tvg-id="BabAlHara.sa@SD" group-title="Movies & Drama",Bab Al Hara
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Maraya.sa@SD" group-title="فیلم و دراما",Maraya
+#EXTINF:-1 tvg-id="Maraya.sa@SD" group-title="Movies & Drama",Maraya
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 
-#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" group-title="فیلم و دراما",iFilm Arabic
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" group-title="Movies & Drama",iFilm Arabic
 https://live.presstv.co.uk/hls/ifilmar.m3u8
 
-#EXTINF:-1 tvg-id="CBCDrama.eg@SD" group-title="فیلم و دراما",CBC Drama
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" group-title="Movies & Drama",CBC Drama
 https://flu.systemnet.tv/CBCDrama/index.m3u8
 
-#EXTINF:-1 tvg-id="MixHollywood.eg@SD" group-title="فیلم و دراما",Mix Hollywood
+#EXTINF:-1 tvg-id="MixHollywood.eg@SD" group-title="Movies & Drama",Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
