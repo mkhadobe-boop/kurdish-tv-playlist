@@ -172,4 +172,27 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="Foreign Movies",The Film Detective
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Kurdish Local" http-referrer="https://www.kurdmax.tv/" http-user-agent="Mozilla/5.0",KurdMax Kurmanci
+#EXTVLCOPT:http-referrer=https://www.kurdmax.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.kurdmax.tv/app/kurdmax-kurmanji2/ts:playlist.m3u8
+#EXTINF:-1 group-title="Kurdish Local",Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 group-title="Arabic News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="Documentary",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/03.m3u8
+#EXTINF:-1 group-title="International News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="Turkish",Haber 61
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Makkah Live
+http://m.live.net.sa:1935/live/quran/chunklist_w739544379.m3u8
+#EXTINF:-1 group-title="Arabic News",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="Turkish",Teve2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="Kids",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
 
