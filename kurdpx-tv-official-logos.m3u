@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=https://www.kurdmax.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.kurdmax.tv/app/kurdmax-sorani1/ts:playlist.m3u8
-#EXTINF:-1 group-title="Kurdish Local",Zagros TV
+#EXTINF:-1 group-title="Kurdish Local" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png",Zagros TV
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
 #EXTINF:-1 group-title="Kurdish Local",Gali Kurdistan
 https://live.host247.net/gk/gksat/playlist.m3u8
@@ -29,7 +29,7 @@ https://ava002.xyz/upload/images/1080.m3u8
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish",Channel8 (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 group-title="Kurdish",Cira TV (1080p)
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://iko-streamline-live1.akamaized.net/Web/media/logo.png",Cira TV (1080p)
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 group-title="Kurdish",EmanTv (1080p)
 https://avr.host247.net/live/emantv/playlist.m3u8
@@ -37,25 +37,25 @@ https://avr.host247.net/live/emantv/playlist.m3u8
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish",Ilke TV (1080p)
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 group-title="Kurdish",Jin TV
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://jintv.net/img/logo.png",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 group-title="Kurdish",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Kurdish",Kurd Channel
 https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Kurdish",Kurdistan 24 (1080p)
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Www.24.krd.png/1200px-Www.24.krd.png",Kurdistan 24 (1080p)
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-#EXTINF:-1 group-title="Kurdish",Kurdistan TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://kurdistantv.net/Web/media/logo.png",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish",Kurdsat (1080p)
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://www.kurdsat.tv/images/logofull.png",Kurdsat (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
-#EXTINF:-1 group-title="Kurdish",Kurdsat News (1080p)
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://www.kurdsatnews.com/images/logo.png",Kurdsat News (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 group-title="Kurdish Music",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 group-title="Kurdish",Mixkurdy (1080p)
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 group-title="Kurdish",NRT TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://images.ntviraq.com/wene/logo.png",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish",Payam TV (1080p)
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
@@ -63,7 +63,7 @@ https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:-1 group-title="Kurdish",Ronahi TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 group-title="Kurdish",Rudaw TV (1080p)
+#EXTINF:-1 group-title="Kurdish" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg",Rudaw TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 #EXTINF:-1 group-title="Kurdish",Sercem TV (1080p)
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
@@ -81,7 +81,7 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
 #EXTINF:-1 group-title="Kids",Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 group-title="Movies Drama",MBC Iraq
+#EXTINF:-1 group-title="Movies Drama" tvg-logo="https://i.imgur.com/huebvDt.png",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 group-title="Movies Drama",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
